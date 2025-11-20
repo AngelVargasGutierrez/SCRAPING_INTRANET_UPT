@@ -1,0 +1,351 @@
+{
+  "ciclo": 7,
+  "asignaturas": [
+    {
+      "codigo": "EG-781",
+      "nombre": "PROBLEMAS Y DESAFÍOS DEL PERÚ EN UN MUNDO GLOBAL",
+      "docente": "HUILLCA ZEGARRA, EVER CRISTHIAM",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Martes",
+          "hora_inicio": "18:20",
+          "hora_fin": "20:50",
+          "duracion": "3h",
+          "aula": "P-307"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-782",
+      "nombre": "SISTEMAS OPERATIVOS II",
+      "docente": "TACO COAYLA, RENZO ALBERTO",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Lunes",
+          "hora_inicio": "20:00",
+          "hora_fin": "21:40",
+          "duracion": "2h",
+          "aula": "LAB E"
+        },
+        {
+          "dia": "Miércoles",
+          "hora_inicio": "18:20",
+          "hora_fin": "20:00",
+          "duracion": "2h",
+          "aula": "LAB E"
+        },
+        {
+          "dia": "Jueves",
+          "hora_inicio": "20:00",
+          "hora_fin": "21:40",
+          "duracion": "2h",
+          "aula": "LAB E"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-783",
+      "nombre": "BASE DE DATOS II",
+      "docente": "CHOQUE FLORES, JUAN MIGUEL",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Lunes",
+          "hora_inicio": "15:50",
+          "hora_fin": "17:30",
+          "duracion": "2h",
+          "aula": "LAB F"
+        },
+        {
+          "dia": "Miércoles",
+          "hora_inicio": "20:00",
+          "hora_fin": "21:40",
+          "duracion": "2h",
+          "aula": "LAB B"
+        },
+        {
+          "dia": "Viernes",
+          "hora_inicio": "18:20",
+          "hora_fin": "20:00",
+          "duracion": "2h",
+          "aula": "LAB F"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-784",
+      "nombre": "CALIDAD Y PRUEBAS DE SOFTWARE",
+      "docente": "CUADROS QUIROGA, PATRICK JOSÉ",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Viernes",
+          "hora_inicio": "20:00",
+          "hora_fin": "21:40",
+          "duracion": "2h",
+          "aula": "LAB D"
+        },
+        {
+          "dia": "Sábado",
+          "hora_inicio": "08:00",
+          "hora_fin": "09:40",
+          "duracion": "2h",
+          "aula": "LAB A"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-785",
+      "nombre": "GESTIÓN DE PROYECTOS DE TI",
+      "docente": "PAREDES VIGNOLA, MARTHA JUDITH",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Lunes",
+          "hora_inicio": "17:30",
+          "hora_fin": "19:10",
+          "duracion": "2h",
+          "aula": "LAB A"
+        },
+        {
+          "dia": "Miércoles",
+          "hora_inicio": "15:50",
+          "hora_fin": "17:30",
+          "duracion": "2h",
+          "aula": "LAB F"
+        },
+        {
+          "dia": "Jueves",
+          "hora_inicio": "16:40",
+          "hora_fin": "18:20",
+          "duracion": "2h",
+          "aula": "LAB F"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-786",
+      "nombre": "PROGRAMACIÓN WEB I",
+      "docente": "ALE NIETO, TITO FERNANDO",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Martes",
+          "hora_inicio": "16:40",
+          "hora_fin": "18:20",
+          "duracion": "2h",
+          "aula": "LAB E"
+        },
+        {
+          "dia": "Jueves",
+          "hora_inicio": "18:20",
+          "hora_fin": "20:00",
+          "duracion": "2h",
+          "aula": "LAB A"
+        },
+        {
+          "dia": "Viernes",
+          "hora_inicio": "16:40",
+          "hora_fin": "18:20",
+          "duracion": "2h",
+          "aula": "LAB E"
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "ciclo": 8,
+  "cursos": [
+    {
+      "codigo": "SI-8810",
+      "asignatura": "SISTEMAS DE RECURSOS EMPRESARIALES",
+      "docente": "(SIN CARGA HORARIA)",
+      "seccion": "A",
+      "horarios": []
+    },
+    {
+      "codigo": "SI-881",
+      "asignatura": "INTELIGENCIA ARTIFICIAL",
+      "docente": "CHABARRO CRUZ, ISRAEL NAZARETH",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Martes",
+          "hora": "15:00 - 16:40",
+          "duracion": "2h",
+          "lugar": "LAB D"
+        },
+        {
+          "dia": "Jueves",
+          "hora": "15:00 - 16:40",
+          "duracion": "2h",
+          "lugar": "LAB D"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-8811",
+      "asignatura": "TÓPICOS DE BASE DE DATOS AVANZADOS I",
+      "docente": "(SIN CARGA HORARIA)",
+      "seccion": "A",
+      "horarios": []
+    },
+    {
+      "codigo": "SI-882",
+      "asignatura": "REDES Y COMUNICACIÓN DE DATOS I",
+      "docente": "ALCÁNTARA MARTÍNEZ, HUGO MARTIN",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Lunes",
+          "hora": "18:20 - 20:00",
+          "duracion": "2h",
+          "lugar": "LAB B"
+        },
+        {
+          "dia": "Viernes",
+          "hora": "18:20 - 20:00",
+          "duracion": "2h",
+          "lugar": "LAB B"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-883",
+      "asignatura": "SOLUCIONES MÓVILES I",
+      "docente": "RODRÍGUEZ MARCA, ELARD RICARDO",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Martes",
+          "hora": "16:40 - 18:20",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        },
+        {
+          "dia": "Jueves",
+          "hora": "18:20 - 20:00",
+          "duracion": "2h",
+          "lugar": "LAB C"
+        },
+        {
+          "dia": "Viernes",
+          "hora": "16:40 - 18:20",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-884",
+      "asignatura": "ESTADÍSTICA INFERENCIAL Y ANÁLISIS DE DATOS",
+      "docente": "FERNÁNDEZ VIZCARRA, LUIS ALFREDO",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Lunes",
+          "hora": "16:40 - 18:20",
+          "duracion": "2h",
+          "lugar": "LAB D"
+        },
+        {
+          "dia": "Martes",
+          "hora": "18:20 - 20:00",
+          "duracion": "2h",
+          "lugar": "P-301"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-885",
+      "asignatura": "INTELIGENCIA DE NEGOCIOS",
+      "docente": "CUADROS QUIROGA, PATRICK JOSE",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Martes",
+          "hora": "20:00 - 21:40",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        },
+        {
+          "dia": "Miércoles",
+          "hora": "18:20 - 20:00",
+          "duracion": "2h",
+          "lugar": "P-307"
+        },
+        {
+          "dia": "Jueves",
+          "hora": "20:00 - 21:40",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-886",
+      "asignatura": "PLANEAMIENTO ESTRATÉGICO DE TI",
+      "docente": "JIMÉNEZ FLORES, OSCAR JUAN",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Miércoles",
+          "hora": "16:40 - 18:20",
+          "duracion": "2h",
+          "lugar": "P-307"
+        },
+        {
+          "dia": "Jueves",
+          "hora": "16:40 - 18:20",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-887",
+      "asignatura": "INTERNET DE LAS COSAS",
+      "docente": "(SIN CARGA HORARIA)",
+      "seccion": "A",
+      "horarios": []
+    },
+    {
+      "codigo": "SI-888",
+      "asignatura": "DISEÑO Y CREACIÓN DE VIDEOJUEGOS",
+      "docente": "RODRÍGUEZ MARCA, ELARD RICARDO",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Viernes",
+          "hora": "18:20 - 20:00",
+          "duracion": "2h",
+          "lugar": "P-301"
+        }
+      ]
+    },
+    {
+      "codigo": "SI-889",
+      "asignatura": "PATRONES DE SOFTWARE",
+      "docente": "CUADROS QUIROGA, PATRICK JOSE",
+      "seccion": "A",
+      "horarios": [
+        {
+          "dia": "Lunes",
+          "hora": "20:00 - 21:40",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        },
+        {
+          "dia": "Miércoles",
+          "hora": "20:00 - 21:40",
+          "duracion": "2h",
+          "lugar": "LAB A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "codigo": "SI-881",
+    "curso": "INTELIGENCIA ARTIFICIAL",
+    "seccion": "A",
+    "lunes": "",
+    "martes": "LAB D",
+    "miércoles": "",
+    "jueves": "LAB D",
+    "viernes": "",
+    "sábado": "",
+    "domingo": "",
+    "labs": {
+      "martes": "LAB D",
+      "jueves": "LAB D"
+    }
+  },
+  {
+    "codigo": "SI-882",
+    "curso": "REDES Y COMUNICACIÓN DE DATOS I",
+    "seccion": "A",
+    "lunes": "LAB B",
+    "martes": "",
+    "miércoles": "",
+    "jueves": "",
+    "viernes": "LAB B",
+    "sábado": "",
+    "domingo": "",
+    "labs": {
+      "lunes": "LAB B",
+      "viernes": "LAB B"
+    }
+  },
+  {
+    "codigo": "SI-883",
+    "curso": "SOLUCIONES MÓVILES I",
+    "seccion": "A",
+    "lunes": "",
+    "martes": "LAB A",
+    "miércoles": "",
+    "jueves": "LAB C",
+    "viernes": "LAB A",
+    "sábado": "",
+    "domingo": "",
+    "labs": {
+      "martes": "LAB A",
+      "jueves": "LAB C",
+      "viernes": "LAB A"
+    }
+  },
+  {
+    "codigo": "SI-884",
+    "curso": "ESTADÍSTICA INFERENCIAL Y ANÁLISIS DE DATOS",
+    "seccion": "A",
+    "lunes": "LAB D",
+    "martes": "P-301",
+    "miércoles": "",
+    "jueves": "",
+    "viernes": "",
+    "sábado": "",
+    "domingo": "",
+    "labs": {
+      "lunes": "LAB D",
+      "martes": "P-301"
+    }
+  },
+  {
+    "codigo": "SI-885",
+    "curso": "INTELIGENCIA DE NEGOCIOS",
+    "seccion": "A",
+    "lunes": "",
+    "martes": "LAB A",
+    "miércoles": "P-307",
+    "jueves": "LAB A",
+    "viernes": "",
+    "sábado": "",
+    "domingo": "",
+    "labs": {
+      "martes": "LAB A",
+      "miércoles": "P-307",
+      "jueves": "LAB A"
+    }
+  },
+  {
+    "codigo": "SI-886",
+    "curso": "PLANEAMIENTO ESTRATÉGICO DE TI",
+    "seccion": "A",
+    "lunes": "",
+    "martes": "",
+    "miércoles": "P-307",
+    "jueves": "LAB A",
+    "viernes": "",
+    "sábado": "",
+    "domingo": "",
+    "labs": {
+      "miércoles": "P-307",
+      "jueves": "LAB A"
+    }
+  }
+]
